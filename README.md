@@ -4,17 +4,20 @@ Severstal is leading the charge in efficient steel mining and production. They b
 #convert RLE to Detectron2 Format<br>
 https://github.com/panditrahulsharma/RLE-to-polygon-format/edit/master/README.md<br>
 
+```
 Folder Structure
-
-  ```
-  ├── Steel-defect
-  │   ├── train
-  │   │       └── .jpg images (7000 items)
-  |   |       |
-  |   |       |___train.csv
-  |   |
-  │   └── Test
-  │   |   └── .jpg (3000 items)
-      |
-      |____.rle_to_contour.ipynb #Script that Convert RLE ro Detectron2 Format
+├── Steel
+│   ├── train
+│   │       └── .jpg images (7000 items)
+|   |       |
+|   |       |___data.csv
+|   |
+│   └── val
+│   |   └── .jpg (3000 items)
+|   |   |__data.csv
+    |
+    |____.rle_to_contour.ipynb 
+    |
+    |___Detectron2_for_Steel_Defect_Detection.py  
+    #Script that Convert RLE ro Detectron2 Format
       
