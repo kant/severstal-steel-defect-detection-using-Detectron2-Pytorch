@@ -4,6 +4,8 @@ Severstal is leading the charge in efficient steel mining and production. They b
 #convert RLE to Detectron2 Format<br>
 https://github.com/panditrahulsharma/RLE-to-polygon-format/edit/master/README.md<br>
 
+#install Detectron2<br>
+https://gilberttanner.com/blog/detectron-2-object-detection-with-pytorch<br>
 ```
 Folder Structure
 ├── Steel
