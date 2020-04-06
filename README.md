@@ -21,5 +21,4 @@ Folder Structure
     |___Detectron2_for_Steel_Defect_Detection.py  
     #Script that Convert RLE ro Detectron2 Format
       
-   
-![alt text](newplot.png "sample")<br><br><br>
+![](newplot.png)
