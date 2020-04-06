@@ -22,4 +22,3 @@ Folder Structure
     #Script that Convert RLE ro Detectron2 Format
       
 
-❮img src="newplot.png" width="100" ❯
