@@ -6,6 +6,10 @@ https://github.com/panditrahulsharma/RLE-to-polygon-format/edit/master/README.md
 
 #install Detectron2<br>
 https://gilberttanner.com/blog/detectron-2-object-detection-with-pytorch<br>
+
+#use Model
+https://detectron2.readthedocs.io/tutorials/models.html
+
 ```
 Folder Structure
 ├── Steel
