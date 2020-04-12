@@ -10,6 +10,9 @@ https://gilberttanner.com/blog/detectron-2-object-detection-with-pytorch<br>
 #use Model
 https://detectron2.readthedocs.io/tutorials/models.html
 
+#Some results
+![alt text](index.png)
+
 ```
 Folder Structure
 ├── Steel
@@ -26,5 +29,5 @@ Folder Structure
     |
     |___Detectron2_for_Steel_Defect_Detection.py  
     #Script that Convert RLE ro Detectron2 Format
-      
+
 
