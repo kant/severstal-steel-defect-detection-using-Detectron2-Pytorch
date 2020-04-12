@@ -16,6 +16,10 @@ https://detectron2.readthedocs.io/tutorials/models.html
 Segmentation Steel images<br><br>
 
 ![alt text](index.png)<br><br>
+![alt text](r1.png)<br><br>
+![alt text](r2.png)<br><br>
+![alt text](r3.png)<br><br>
+![alt text](r4.png)<br><br>
 
 ```
 Folder Structure
