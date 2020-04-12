@@ -11,9 +11,11 @@ https://gilberttanner.com/blog/detectron-2-object-detection-with-pytorch<br>
 #use Model
 https://detectron2.readthedocs.io/tutorials/models.html
 
-Segmentation Steel images<br>
-![alt text](index.png)<br><br>
 ![alt text](newplot.png)<br><br>
+
+Segmentation Steel images<br><br>
+
+![alt text](index.png)<br><br>
 
 ```
 Folder Structure
