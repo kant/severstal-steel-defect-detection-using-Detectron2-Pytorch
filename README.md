@@ -37,10 +37,10 @@ Folder Structure
     |____.rle_to_contour.ipynb 
     |
     |___Detectron2_for_Steel_Defect_Detection.py  
-    #Script that Convert RLE ro Detectron2 Format
+    #Script that Convert RLE to Detectron2 Format
 
 
-#install Detectron2 in Ubantu
+#install Detectron2 in Ubuntu
 ### Requirements
 - Linux or macOS with Python ≥ 3.6
 - PyTorch ≥ 1.3
